@@ -46,5 +46,5 @@ to do list :
 - simpan uang (duta)
 - tarik (darryl)
 - transfer (search) (duta)
-- lihat riwayat transaksi (deposit-withdrawal stack linked list)(transfer queue linked list) (bareng jgn berkianat main)
+- lihat riwayat transaksi (deposit-withdrawal stack linked list)(transfer queue linked list) 
 - ganti pin struct update strcmp pin (surya)
