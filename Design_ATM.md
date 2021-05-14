@@ -1,5 +1,5 @@
 # TAStrukturData
-# Program ATM
+# Program ATM (design)
 nasabah : 
 nomor kartu
 pin
@@ -22,11 +22,7 @@ pin
 saldo anda
 
 penarikan uang :
-masukan jumlah uang        		110 % 50 = sisa mod < 20 -50 
-					110-50 = 60
-					170 % 100
-					70 50
-					75
+masukan jumlah uang        		
 pecahan uang?
 pin
 saldo anda
