@@ -1,4 +1,5 @@
 # TAStrukturData
+# ATM
 nasabah : 
 nomor kartu
 pin
