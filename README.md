@@ -1,4 +1,3 @@
-# TAStrukturData
 # Program ATM (design)
 nasabah : 
 nomor kartu
